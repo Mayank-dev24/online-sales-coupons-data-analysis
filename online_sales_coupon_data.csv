@@ -1,0 +1,101 @@
+Order_ID,Customer_ID,Product,Category,Price,Discount (%),Coupon_Code,Used_Coupon,Date,Location
+1000,C858,Laptop,Electronics,2789,40,FESTIVE40,Yes,3/22/2025,West Juliemouth
+1001,C184,Watch,Accessories,7658,0,-,No,7/4/2025,North Chris
+1002,C736,Sunglasses,Accessories,6101,40,FESTIVE40,Yes,10/24/2024,West Derrick
+1003,C184,Shoes,Fashion,8287,30,OFFER30,Yes,2/22/2025,West Ruben
+1004,C146,Phone,Electronics,19674,15,STYLE15,Yes,5/29/2025,West Scottchester
+1005,C444,Smartwatch,Electronics,4922,0,-,No,7/26/2024,Colemanhaven
+1006,C647,Book,Books,1977,40,FESTIVE40,Yes,4/29/2025,Whiteport
+1007,C600,Book,Books,19844,40,FESTIVE40,Yes,11/8/2024,Katietown
+1008,C905,Phone,Electronics,19564,30,OFFER30,Yes,12/2/2024,Douglasbury
+1009,C755,Smartwatch,Electronics,7434,40,FESTIVE40,Yes,9/25/2024,Karenmouth
+1010,C553,Smartwatch,Electronics,15227,25,WELCOME25,Yes,7/29/2024,New Maria
+1011,C280,Phone,Electronics,13979,0,-,No,5/4/2025,Ashleyville
+1012,C791,Book,Books,5649,20,DEAL20,Yes,7/31/2024,New Luischester
+1013,C553,Sunglasses,Accessories,5431,0,-,No,2/11/2025,Port Alexis
+1014,C424,Watch,Accessories,18562,0,-,No,9/6/2024,West Alexa
+1015,C836,T-shirt,Fashion,15012,15,STYLE15,Yes,4/13/2025,Lauraberg
+1016,C360,Smartwatch,Electronics,7892,50,CLEAR50,Yes,10/26/2024,Taylorton
+1017,C319,Backpack,Accessories,9185,30,OFFER30,Yes,5/8/2025,Ericaberg
+1018,C630,Shoes,Fashion,3193,15,STYLE15,Yes,1/21/2025,Crawfordton
+1019,C895,Shoes,Fashion,12434,30,OFFER30,Yes,2/22/2025,Aprilville
+1020,C108,Shoes,Fashion,19637,0,-,No,1/20/2025,Clarkfort
+1021,C812,Phone,Electronics,9330,15,STYLE15,Yes,12/17/2024,Hughestown
+1022,C182,Smartwatch,Electronics,14448,10,TECH10,Yes,4/3/2025,Mckinneyside
+1023,C822,Sunglasses,Accessories,4885,0,DISCOUNT5,Yes,5/2/2025,Hebertmouth
+1024,C704,Phone,Electronics,10013,0,-,No,10/20/2024,Davidsonton
+1025,C635,Phone,Electronics,16703,0,-,No,6/17/2025,Hufffurt
+1026,C784,Sunglasses,Accessories,12666,20,DEAL20,Yes,3/6/2025,North Maria
+1027,C971,Sunglasses,Accessories,6771,10,TECH10,Yes,3/31/2025,Kevinville
+1028,C468,Backpack,Accessories,7960,0,-,No,1/7/2025,South Michael
+1029,C448,Shoes,Fashion,8854,40,FESTIVE40,Yes,9/3/2024,Lake Christopher
+1030,C715,Book,Books,16425,50,CLEAR50,Yes,1/16/2025,West Michelle
+1031,C218,Headphones,Electronics,11331,20,DEAL20,Yes,12/19/2024,Port Kevin
+1032,C313,Backpack,Accessories,2541,0,-,No,8/20/2024,New Amanda
+1033,C542,Watch,Accessories,8515,30,OFFER30,Yes,2/24/2025,South Joseph
+1034,C364,Sunglasses,Accessories,12832,15,NEWUSER15,Yes,8/1/2024,Hopkinsland
+1035,C834,Headphones,Electronics,17778,0,-,No,11/16/2024,Tatemouth
+1036,C108,Watch,Accessories,18006,0,-,No,7/18/2025,Russellbury
+1037,C580,Phone,Electronics,13264,0,-,No,5/11/2025,Lake Daniellemouth
+1038,C124,Shoes,Fashion,9520,10,SAVE10,Yes,11/3/2024,West Stevenstad
+1039,C644,Phone,Electronics,1448,20,DEAL20,Yes,7/10/2025,Lynnstad
+1040,C811,Watch,Accessories,6449,0,DISCOUNT5,Yes,11/21/2024,East James
+1041,C476,Watch,Accessories,12703,20,DEAL20,Yes,8/6/2024,East Mark
+1042,C184,Backpack,Accessories,19784,10,TECH10,Yes,6/2/2025,New Lindaburgh
+1043,C969,Sunglasses,Accessories,14388,50,CLEAR50,Yes,9/21/2024,Port Erica
+1044,C393,Watch,Accessories,3436,15,NEWUSER15,Yes,4/10/2025,New Laura
+1045,C305,Sunglasses,Accessories,15598,10,SAVE10,Yes,3/10/2025,South Priscilla
+1046,C793,Sunglasses,Accessories,4351,30,OFFER30,Yes,3/20/2025,Lake Paul
+1047,C524,Phone,Electronics,16518,30,OFFER30,Yes,2/2/2025,Richardside
+1048,C577,Headphones,Electronics,4770,15,STYLE15,Yes,1/29/2025,Port Stacyside
+1049,C233,Watch,Accessories,5720,20,DEAL20,Yes,2/7/2025,Georgefort
+1050,C850,Laptop,Electronics,10110,10,SAVE10,Yes,11/23/2024,North Brianna
+1051,C289,Book,Books,6205,0,-,No,3/29/2025,West Penny
+1052,C667,T-shirt,Fashion,4274,0,-,No,11/23/2024,South Mark
+1053,C175,Headphones,Electronics,9732,0,-,No,12/8/2024,Gonzalezmouth
+1054,C757,Sunglasses,Accessories,10048,50,CLEAR50,Yes,2/3/2025,East Barbaraview
+1055,C623,Headphones,Electronics,2825,10,SAVE10,Yes,3/28/2025,Garybury
+1056,C787,Phone,Electronics,14765,15,STYLE15,Yes,12/12/2024,New Ruth
+1057,C475,Backpack,Accessories,13913,15,STYLE15,Yes,8/20/2024,Carlachester
+1058,C508,Backpack,Accessories,8156,15,STYLE15,Yes,11/16/2024,Jasonstad
+1059,C265,Book,Books,18664,0,-,No,4/30/2025,Hawkinsberg
+1060,C505,Smartwatch,Electronics,664,15,NEWUSER15,Yes,9/29/2024,West Kenneth
+1061,C753,Shoes,Fashion,1943,0,-,No,1/19/2025,Shawchester
+1062,C833,Sunglasses,Accessories,11383,15,NEWUSER15,Yes,5/30/2025,Toddhaven
+1063,C809,Laptop,Electronics,7047,20,DEAL20,Yes,12/6/2024,Rebeccabury
+1064,C874,Watch,Accessories,18139,0,-,No,3/18/2025,Valerieville
+1065,C324,Smartwatch,Electronics,16728,15,NEWUSER15,Yes,6/13/2025,West Sally
+1066,C759,Headphones,Electronics,1241,30,OFFER30,Yes,10/2/2024,Andersonmouth
+1067,C581,Sunglasses,Accessories,4563,15,NEWUSER15,Yes,10/23/2024,Lake Teresatown
+1068,C792,Phone,Electronics,13734,10,TECH10,Yes,9/9/2024,Martinstad
+1069,C915,Headphones,Electronics,14328,15,NEWUSER15,Yes,1/2/2025,East Stephenfurt
+1070,C897,Laptop,Electronics,446,25,WELCOME25,Yes,12/3/2024,New Ann
+1071,C867,Phone,Electronics,12881,25,WELCOME25,Yes,9/21/2024,Lewisshire
+1072,C885,Phone,Electronics,5906,0,-,No,5/24/2025,New Kristinberg
+1073,C337,Phone,Electronics,6661,25,WELCOME25,Yes,8/14/2024,Lake Leslie
+1074,C276,Watch,Accessories,1424,15,STYLE15,Yes,9/2/2024,Port Ian
+1075,C720,Phone,Electronics,19856,40,FESTIVE40,Yes,2/7/2025,New Patrick
+1076,C340,Smartwatch,Electronics,16458,30,OFFER30,Yes,4/20/2025,East Jenniferchester
+1077,C645,Laptop,Electronics,6536,50,CLEAR50,Yes,2/27/2025,Lake Roger
+1078,C926,Backpack,Accessories,16383,0,-,No,4/12/2025,West Frank
+1079,C630,Phone,Electronics,11616,20,DEAL20,Yes,9/29/2024,North Michelle
+1080,C664,Smartwatch,Electronics,8217,0,-,No,11/5/2024,West Kathleen
+1081,C727,Watch,Accessories,8553,15,NEWUSER15,Yes,12/22/2024,South Stephanieland
+1082,C462,Laptop,Electronics,3139,15,STYLE15,Yes,10/31/2024,New Amanda
+1083,C942,Smartwatch,Electronics,10142,0,-,No,6/21/2025,Christopherland
+1084,C494,Smartwatch,Electronics,3189,0,-,No,4/10/2025,North Cynthiachester
+1085,C213,Watch,Accessories,4501,30,OFFER30,Yes,5/2/2025,East Alexis
+1086,C606,T-shirt,Fashion,19070,10,SAVE10,Yes,2/20/2025,North Albert
+1087,C582,Headphones,Electronics,4857,0,-,No,6/10/2025,Michaelhaven
+1088,C292,Book,Books,15009,10,TECH10,Yes,10/12/2024,North Joseph
+1089,C849,Book,Books,7422,25,WELCOME25,Yes,5/29/2025,East Aliciahaven
+1090,C261,Backpack,Accessories,9407,0,-,No,7/28/2024,New Joshua
+1091,C684,Sunglasses,Accessories,14462,20,DEAL20,Yes,5/22/2025,Thomasville
+1092,C390,Sunglasses,Accessories,15578,10,TECH10,Yes,8/29/2024,Dawnfurt
+1093,C393,Watch,Accessories,13401,0,-,No,2/8/2025,Lake Jason
+1094,C100,Phone,Electronics,6856,30,OFFER30,Yes,10/5/2024,Lake Ethanburgh
+1095,C202,Sunglasses,Accessories,8645,25,WELCOME25,Yes,5/9/2025,Bennettton
+1096,C101,Book,Books,10139,10,TECH10,Yes,4/16/2025,Davidside
+1097,C819,T-shirt,Fashion,8068,0,-,No,6/28/2025,Matthewborough
+1098,C646,Book,Books,15616,20,DEAL20,Yes,2/9/2025,West Katelyn
+1099,C878,T-shirt,Fashion,19550,40,FESTIVE40,Yes,6/17/2025,New Timothy
